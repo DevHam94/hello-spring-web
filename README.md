@@ -11,3 +11,16 @@
 - 웹 프레임워크로 Spring MVC만 사용해 개발 (보안에 관계된 spring security는 사용하지 않는다)
 - 템플릿 엔진은 Thymeleaf를 사용
 - 빌드 시스템은 Gradle을 사용
+
+# Dependency
+- Gradle을 이용한다. 
+- Spring Web
+- Thymeleaf
+- Validation
+- Spring Data JPA
+- H2 Database
+
+# 클라이언트 사이드 프로젝트 
+TodoApp Client를 사용. (Thymeleaf와 vue.js로 만들어졌다.)
+
+
